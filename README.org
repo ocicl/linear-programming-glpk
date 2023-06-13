@@ -1,0 +1,10 @@
+* linear-programming-glpk
+
+GLPK backend for the linear-programming library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/neil-lindquist/linear-programming-glpk.git   |
+| commit  | 9dfa6bd  |
+| systems | linear-programming-glpk |
+|---------+-------------------------------------------|
+
